@@ -144,7 +144,7 @@ html{
     margin-right: 100px;
 }
 .contact{
-    background-color: #f6f5f4;
+    background-color: gainsboro;
     height: 530px;
 }
 .text-center{
@@ -162,7 +162,7 @@ html{
     padding: 5px 3px;
     width: 100%;
     font-size: 15px;
-    border: 2px solid grey;
+    border: 2px solid black;
     border-radius: 6px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
