@@ -86,10 +86,10 @@ html{
 
 .text-big{
     text-align: center;
-    font-size: 50px;   
+    font-size: 30px;   
 }
 .text-small{
-    text-align: center;
+    text-align:justify;
     font-size: 20px;
 }
 .btns{
@@ -117,7 +117,7 @@ html{
 }
 .section{
     height: 400px;
-    display: flex;
+    display: cover;
     align-items: center;
     justify-content: space-evenly;
     max-width: 80%;
@@ -126,7 +126,7 @@ html{
 }
 .secRight{
     height: 500px;
-    display: flex;
+    display: cover;
     align-items: center;
     justify-content:right;
     max-width: 80%;
@@ -136,10 +136,12 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
 }
 .thumbnail img{
+    
     width: 100px;
     border: 2px solid black;
     border-radius: 26px;
     margin-top: 19px;
+    margin-right: 100px;
 }
 .contact{
     background-color: #f6f5f4;
@@ -152,7 +154,7 @@ html{
     font-size: 35px;
 }
 .form{
-    max-width: 630px;
+    max-width: 300px;
     margin: 25px auto;
 }
 .form-input{
@@ -215,6 +217,7 @@ html{
     border: 2px solid black;
     border-radius: 26px;
     margin-top: 10px;
+
 }
 .Right{
     height: 500px;
